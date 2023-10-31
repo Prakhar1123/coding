@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/coding/static/css/main.b744e6d4.css",
-    "main.js": "/coding/static/js/main.4a62c626.js",
+    "main.css": "/coding/static/css/main.1512e236.css",
+    "main.js": "/coding/static/js/main.46cb66a3.js",
     "static/js/787.d3befce1.chunk.js": "/coding/static/js/787.d3befce1.chunk.js",
     "static/media/adidas1.jpg": "/coding/static/media/adidas1.edad8651a6a102ca576d.jpg",
     "static/media/puma1.jpg": "/coding/static/media/puma1.e88a715c39f854192759.jpg",
     "static/media/puma2.jpg": "/coding/static/media/puma2.9f289c5f06669811bdf9.jpg",
     "static/media/todo1.jpg": "/coding/static/media/todo1.7042139f0201aa7852e5.jpg",
-    "static/media/prakhar.jpg": "/coding/static/media/prakhar.a0958d30ee5f4008417d.jpg",
     "static/media/todo3.jpg": "/coding/static/media/todo3.3c716b7b06fd0a32fec1.jpg",
     "static/media/captain.jpg": "/coding/static/media/captain.800f6fc23bc785267f85.jpg",
     "static/media/todo2.jpg": "/coding/static/media/todo2.cbd4d7964cdafceefe11.jpg",
@@ -15,12 +14,12 @@
     "static/media/thor.jpg": "/coding/static/media/thor.2db21079eb9b14d66091.jpg",
     "static/media/mysql.png": "/coding/static/media/mysql.71ed292fc8a291f7d77d.png",
     "index.html": "/coding/index.html",
-    "main.b744e6d4.css.map": "/coding/static/css/main.b744e6d4.css.map",
-    "main.4a62c626.js.map": "/coding/static/js/main.4a62c626.js.map",
+    "main.1512e236.css.map": "/coding/static/css/main.1512e236.css.map",
+    "main.46cb66a3.js.map": "/coding/static/js/main.46cb66a3.js.map",
     "787.d3befce1.chunk.js.map": "/coding/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b744e6d4.css",
-    "static/js/main.4a62c626.js"
+    "static/css/main.1512e236.css",
+    "static/js/main.46cb66a3.js"
   ]
 }
